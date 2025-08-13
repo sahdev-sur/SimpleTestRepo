@@ -1,1 +1,9 @@
-This is code owners file
+# CODEOWNERS
+# This file tells GitHub who is responsible for specific files or directories
+
+# Default owners for the whole repository
+*       @sahdev @anuj
+
+# Example: Specific ownership
+# /src/   @sahdev
+# /docs/  @anuj
